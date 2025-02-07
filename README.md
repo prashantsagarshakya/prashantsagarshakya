@@ -84,4 +84,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantsagarshakya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <br clear="both">
-<img align="center" src="https://raw.githubusercontent.com/prashantsagarshakya/prashantsagarshakya/output/snake.svg" alt="Snake animation" />
